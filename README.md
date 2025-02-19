@@ -1,4 +1,4 @@
-# Deploy-a-contract-on-Monad-testnet
+# Deploy-a-contract-on-Monad-testnet-using-remix-IDE
 You need to have the Monad Testnet network added to your wallet.
 Name: Monad Testnet
 Chain ID: 10143
